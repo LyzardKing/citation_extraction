@@ -1,0 +1,52 @@
+[
+    {
+        "HT": "Emesa Sugar",
+        "NO.CASE": [
+            "17/98"
+        ],
+        "text": "64For the reasons given by the Court of Justice in its order of 4 February 2000 in Case C-17/98 Emesa Sugar [2000] ECR I-665, it is not appropriate to grant that application.",
+        "NP": "64"
+    },
+    {
+        "HT": [
+            "Smanor et Segaud",
+            "Commission"
+        ],
+        "NO.CASE": [
+            "317/97"
+        ],
+        "text": "78It must be borne in mind that an appeal must indicate precisely the contested elements of the judgment which it is requested to have set aside and also the legal arguments which specifically support that request (see, in particular, the order in Case C-317/97 P Smanor et Se\u0301gaud v Commission [1998] ECR I-4269, paragraph 20).",
+        "NP": "78",
+        "REF.NP.ECR": [
+            "20"
+        ]
+    },
+    {
+        "HT": [
+            "Sateba",
+            "Commission"
+        ],
+        "NO.CASE": [
+            "422/97"
+        ],
+        "text": "79To allow a party to put forward for the first time before the Court of Justice a plea in law which it has not raised before the Court of First Instance would be to authorise it to bring before the Court of Justice, whose jurisdiction in appeals is limited, a case of wider ambit than that which came before the Court of First Instance. In an appeal the jurisdiction of the Court of Justice is thus confined to review of the findings of law on the pleas argued before the Court of First Instance (see, in particular, the order in Case C-422/97 P Sateba v Commission [1998] ECR I-4913, paragraph 30).",
+        "NP": "79",
+        "REF.NP.ECR": [
+            "30"
+        ]
+    },
+    {
+        "HT": [
+            "New Holland Ford",
+            "Commission"
+        ],
+        "NO.CASE": [
+            "8/95"
+        ],
+        "text": "91Under Articles 168a of the EC Treaty (now Article 225 EC), and 51 of the EC Statute of the Court of Justice, however, an appeal may be based only on grounds relating to the infringement of rules of law, to the exclusion of any appraisal of the facts (see, in particular, Case C-8/95 P New Holland Ford v Commission [1998] ECR I-3175, paragraph 25).",
+        "NP": "91",
+        "REF.NP.ECR": [
+            "25"
+        ]
+    }
+]

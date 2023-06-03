@@ -1,0 +1,359 @@
+[
+    {
+        "NO.ECLI": "EU:T:2012:686",
+        "NO.CASE": null,
+        "text": "1By their appeals, the European Commission, in Case C\u201093/13 P, and Versalis SpA (Versalis) and Eni SpA (Eni), in Case C\u2010123/13 P, ask the Court to set aside the judgment of the General Court of the European Union of 13 December 2012 (Versalis and Eni v Commission, T\u2010103/08, EU:T:2012:686, the judgment under appeal), concerning an action, brought jointly by Versalis and Eni, seeking the annulment of Commission Decision C(2007) 5910 final, of 5 December 2007, relating to a proceeding under Article 81 [EC] and Article 53 of the EEA Agreement (Case COMP/38629 \u2014 Chloroprene Rubber, the decision at issue), or, in the alternative, the cancellation or reduction of the amount of the fine imposed jointly on Versalis and Eni by that decision.",
+        "NP": "1"
+    },
+    {
+        "NO.ECLI": "EU:C:2009:536",
+        "NO.CASE": null,
+        "text": "38Versalis and Eni claim that the judgment is invalidated in so far as, in an inconsistent manner and without any relevant reasoning, the General Court considered entirely irrelevant that set of substantively established factors which, in accordance with the case-law of the Court of Justice, was such as to prove the absence of effective exercise by Eni of decisive influence over its subsidiaries. In practice, that finding of the General Court is tantamount to considering the presumption of actual decisive influence to be an irrebuttable presumption, contrary to the principles set out in the judgment in Akzo Nobel and Others v Commission (C\u201097/08 P, EU:C:2009:536) and in breach of the principles of the personal nature of liability and punishment as well as the presumption of innocence and the rights of the defence.",
+        "NP": "38"
+    },
+    {
+        "NO.ECLI": "EU:C:2013:289",
+        "NO.CASE": null,
+        "text": "39Referring to the judgment in Eni v Commission (C\u2010508/11 P, EU:C:2013:289), in which the Court responded to a similar ground of appeal relating to the same entities, the Commission considers that the first ground of appeal is clearly unfounded.",
+        "NP": "39"
+    },
+    {
+        "NO.ECLI": "EU:C:2013:289",
+        "NO.CASE": null,
+        "text": "40Versalis and Eni\u2019s first ground of appeal concerns the application to Eni of the presumption of decisive influence of parent companies over subsidiaries involved in infringements of the European Union competition rules. As the Court noted in paragraph 46 of the judgment in Eni v Commission (EU:C:2013:289) to which the Commission refers, it is established case-law that the conduct of a subsidiary may be imputed, for the purposes of the application of Article 81 EC, to the parent company particularly where, although having separate legal personality, that subsidiary does not autonomously determine its conduct on the market but essentially applies the instructions given to it by the parent company, having regard in particular to the economic, organisational and legal links which unite those two legal entities. In such a situation, since the parent company and its subsidiary form part of a single economic unit and thus form a single undertaking for the purpose of Article 81 EC, the Commission may address a decision imposing fines to the parent company without being required to establish its individual involvement in the infringement.",
+        "NP": "40"
+    },
+    {
+        "NO.ECLI": "EU:C:2013:289",
+        "NO.CASE": null,
+        "text": "41It also follows from settled case-law of the Court that, in the particular case in which a parent company holds all or almost all of the capital in a subsidiary which has committed an infringement of the European Union competition rules, there is a rebuttable presumption that that parent company actually exercises a decisive influence over its subsidiary (judgment in Eni v Commission, EU:C:2013:289, paragraph 47).",
+        "NP": "41",
+        "REF.NP.ECR": [
+            "47"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2009:536",
+        "NO.CASE": null,
+        "text": "42In such a situation, it is sufficient for the Commission to prove that all or almost all of the capital in the subsidiary is held by the parent company in order to take the view that that presumption is fulfilled. The Commission will then be able to regard the parent company as jointly and severally liable for the payment of the fine imposed on its subsidiary, unless the parent company, which has the burden of rebutting that presumption, adduces sufficient evidence to show that its subsidiary acts independently on the market (see judgments in Akzo Nobel and Others v Commission, EU:C:2009:536, paragraph 61; and Elf Aquitaine v Commission, C\u2010521/09 P, EU:C:2011:620, paragraph 57).",
+        "NP": "42",
+        "REF.NP.ECR": [
+            "57"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2011:620",
+        "NO.CASE": null,
+        "text": "42In such a situation, it is sufficient for the Commission to prove that all or almost all of the capital in the subsidiary is held by the parent company in order to take the view that that presumption is fulfilled. The Commission will then be able to regard the parent company as jointly and severally liable for the payment of the fine imposed on its subsidiary, unless the parent company, which has the burden of rebutting that presumption, adduces sufficient evidence to show that its subsidiary acts independently on the market (see judgments in Akzo Nobel and Others v Commission, EU:C:2009:536, paragraph 61; and Elf Aquitaine v Commission, C\u2010521/09 P, EU:C:2011:620, paragraph 57).",
+        "NP": "42",
+        "REF.NP.ECR": [
+            "57"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2013:289",
+        "NO.CASE": null,
+        "text": "43In addition, in the specific case where a holding company holds all or almost all of the capital of an interposed company which, in turn, holds all or almost all of the capital of a subsidiary of its group which has committed an infringement of EU competition law, there is also a rebuttable presumption that that holding company exercises a decisive influence over the conduct of the interposed company and indirectly, via that company, also over the conduct of that subsidiary (see, to that effect, judgment in Eni v Commission, EU:C:2013:289, paragraphs 48 and 49 and the case-law cited).",
+        "NP": "43",
+        "REF.NP.ECR": [
+            "48",
+            "49"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2011:620",
+        "NO.CASE": null,
+        "text": "46Contrary to Versalis and Eni\u2019s submissions, that finding of the General Court is not tantamount to considering the presumption of actual decisive influence to be an irrebuttable presumption. The fact that it is difficult to adduce the evidence necessary to rebut a presumption does not in itself mean that that presumption is in fact irrebuttable, especially where the entities against which the presumption operates are those best placed to seek that evidence within their own sphere of activity (see judgment in Elf Aquitaine v Commission, EU:C:2011:620, paragraph 70).",
+        "NP": "46",
+        "REF.NP.ECR": [
+            "70"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "50Relying on the judgments in ETI and Others (C\u2010280/06, EU:C:2007:775) and ThyssenKrupp Nirosta v Commission (C\u2010352/09 P, EU:C:2011:191), Versalis and Eni maintain essentially that the Court has accepted the possibility of derogating from the principle of personal responsibility only in exceptional cases and in specific circumstances which are not present in this case. In that regard, they observe in particular that [confidential] (formerly EniChem) did not cease to exist in law or economically. They also allege that insufficient reasons were stated for the judgment under appeal.",
+        "NP": "50"
+    },
+    {
+        "NO.ECLI": "EU:C:2011:191",
+        "NO.CASE": null,
+        "text": "50Relying on the judgments in ETI and Others (C\u2010280/06, EU:C:2007:775) and ThyssenKrupp Nirosta v Commission (C\u2010352/09 P, EU:C:2011:191), Versalis and Eni maintain essentially that the Court has accepted the possibility of derogating from the principle of personal responsibility only in exceptional cases and in specific circumstances which are not present in this case. In that regard, they observe in particular that [confidential] (formerly EniChem) did not cease to exist in law or economically. They also allege that insufficient reasons were stated for the judgment under appeal.",
+        "NP": "50"
+    },
+    {
+        "NO.ECLI": "EU:C:2004:6",
+        "NO.CASE": null,
+        "text": "51The Commission considers that the risk that [confidential] (formerly EniChem) might become an empty shell, stated in paragraph 95 of the judgment under appeal, is a factual element which it is not for the Court of Justice to review. It adds that, in any event, the Court has not restricted the cases of liability of a transferee company to situations where a transferor company has ceased all economic activity. In accordance with the Court\u2019s case-law in the judgments in Aalborg Portland and Others v Commission (C\u2010204/00 P, C\u2010205/00 P, C\u2010211/00 P, C\u2010213/00 P, C\u2010217/00 P and C\u2010219/00 P, EU:C:2004:6) and ETI and Others (EU:C:2007:775), only the existence of a structural link between the transferor company and the transferee company forming part of the same group is decisive for the purposes of the liability of the transferee company.",
+        "NP": "51"
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "51The Commission considers that the risk that [confidential] (formerly EniChem) might become an empty shell, stated in paragraph 95 of the judgment under appeal, is a factual element which it is not for the Court of Justice to review. It adds that, in any event, the Court has not restricted the cases of liability of a transferee company to situations where a transferor company has ceased all economic activity. In accordance with the Court\u2019s case-law in the judgments in Aalborg Portland and Others v Commission (C\u2010204/00 P, C\u2010205/00 P, C\u2010211/00 P, C\u2010213/00 P, C\u2010217/00 P and C\u2010219/00 P, EU:C:2004:6) and ETI and Others (EU:C:2007:775), only the existence of a structural link between the transferor company and the transferee company forming part of the same group is decisive for the purposes of the liability of the transferee company.",
+        "NP": "51"
+    },
+    {
+        "NO.ECLI": "EU:C:2013:386",
+        "NO.CASE": null,
+        "text": "52Versalis and Eni\u2019s second ground of appeal in Case C\u2010123/13 P concerns the question of the succession of undertakings. As the Court observed in paragraph 51 of the judgment in Versalis v Commission (C\u2010511/11 P, EU:C:2013:386), it is settled case-law that EU competition law refers to the activities of undertakings and that the concept of an undertaking covers any entity engaged in an economic activity, irrespective of its legal status and the way in which it is financed. When such an entity infringes competition rules, it falls, according to the principle of personal responsibility, to that entity to answer for that infringement.",
+        "NP": "52"
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "53The Court has already held that, where two entities constitute one economic entity, the fact that the entity that committed the infringement still exists does not as such preclude imposing a penalty on the entity to which its economic activities were transferred. In particular, applying penalties in this way is permissible where those entities have been subject to control by the same person and have therefore, given the close economic and organisational links between them, carried out, in all material respects, the same commercial instructions (see judgments in ETI and Others, EU:C:2007:775, paragraphs 48 and 49 and the case-law cited, and Versalis v Commission, EU:C:2013:386, paragraph 52).",
+        "NP": "53",
+        "REF.NP.ECR": [
+            "52"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2013:386",
+        "NO.CASE": null,
+        "text": "53The Court has already held that, where two entities constitute one economic entity, the fact that the entity that committed the infringement still exists does not as such preclude imposing a penalty on the entity to which its economic activities were transferred. In particular, applying penalties in this way is permissible where those entities have been subject to control by the same person and have therefore, given the close economic and organisational links between them, carried out, in all material respects, the same commercial instructions (see judgments in ETI and Others, EU:C:2007:775, paragraphs 48 and 49 and the case-law cited, and Versalis v Commission, EU:C:2013:386, paragraph 52).",
+        "NP": "53",
+        "REF.NP.ECR": [
+            "52"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2011:191",
+        "NO.CASE": null,
+        "text": "57That finding cannot be called into question by the fact that the Court of Justice, in paragraph 144 of the judgment in ThyssenKrupp Nirosta v Commission (EU:C:2011:191), held that the possibility referred to in paragraph 53 of the present judgment also applies in a situation where the entity that has committed the infringement has ceased to exist, either in law or economically, since a penalty imposed on an undertaking which is no longer economically active is likely to have no deterrent effect; it does not follow from that judgment that an infringement may be imputed to an entity which did not commit the infringement only in cases where the application of a penalty to the company which did commit the infringement would not achieve its objective of deterrence (see judgment in Versalis v Commission, EU:C:2013:386, paragraph 55).",
+        "NP": "57",
+        "REF.NP.ECR": [
+            "55"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2013:386",
+        "NO.CASE": null,
+        "text": "57That finding cannot be called into question by the fact that the Court of Justice, in paragraph 144 of the judgment in ThyssenKrupp Nirosta v Commission (EU:C:2011:191), held that the possibility referred to in paragraph 53 of the present judgment also applies in a situation where the entity that has committed the infringement has ceased to exist, either in law or economically, since a penalty imposed on an undertaking which is no longer economically active is likely to have no deterrent effect; it does not follow from that judgment that an infringement may be imputed to an entity which did not commit the infringement only in cases where the application of a penalty to the company which did commit the infringement would not achieve its objective of deterrence (see judgment in Versalis v Commission, EU:C:2013:386, paragraph 55).",
+        "NP": "57",
+        "REF.NP.ECR": [
+            "55"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "58In the judgment in ETI and Others (EU:C:2007:775) to which the Court of Justice expressly referred in paragraph 144 of the judgment in ThyssenKrupp Nirosta v Commission (EU:C:2011:191), the Court of Justice held that the Commission was entitled to impute the infringement to a company which had not committed the infringement where the entity which had done so continued to exist as an economic operator on other markets (see judgment in ETI and Others, EU:C:2007:775, paragraph 45). The Court of Justice based that assessment on the fact that, at the time of the infringement, the companies concerned were held by the same public entity (see judgments in ETI and Others, EU:C:2007:775, paragraph 50, and Versalis v Commission, EU:C:2013:386, paragraph 56).",
+        "NP": "58",
+        "REF.NP.ECR": [
+            "56"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2011:191",
+        "NO.CASE": null,
+        "text": "58In the judgment in ETI and Others (EU:C:2007:775) to which the Court of Justice expressly referred in paragraph 144 of the judgment in ThyssenKrupp Nirosta v Commission (EU:C:2011:191), the Court of Justice held that the Commission was entitled to impute the infringement to a company which had not committed the infringement where the entity which had done so continued to exist as an economic operator on other markets (see judgment in ETI and Others, EU:C:2007:775, paragraph 45). The Court of Justice based that assessment on the fact that, at the time of the infringement, the companies concerned were held by the same public entity (see judgments in ETI and Others, EU:C:2007:775, paragraph 50, and Versalis v Commission, EU:C:2013:386, paragraph 56).",
+        "NP": "58",
+        "REF.NP.ECR": [
+            "56"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "58In the judgment in ETI and Others (EU:C:2007:775) to which the Court of Justice expressly referred in paragraph 144 of the judgment in ThyssenKrupp Nirosta v Commission (EU:C:2011:191), the Court of Justice held that the Commission was entitled to impute the infringement to a company which had not committed the infringement where the entity which had done so continued to exist as an economic operator on other markets (see judgment in ETI and Others, EU:C:2007:775, paragraph 45). The Court of Justice based that assessment on the fact that, at the time of the infringement, the companies concerned were held by the same public entity (see judgments in ETI and Others, EU:C:2007:775, paragraph 50, and Versalis v Commission, EU:C:2013:386, paragraph 56).",
+        "NP": "58",
+        "REF.NP.ECR": [
+            "56"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "58In the judgment in ETI and Others (EU:C:2007:775) to which the Court of Justice expressly referred in paragraph 144 of the judgment in ThyssenKrupp Nirosta v Commission (EU:C:2011:191), the Court of Justice held that the Commission was entitled to impute the infringement to a company which had not committed the infringement where the entity which had done so continued to exist as an economic operator on other markets (see judgment in ETI and Others, EU:C:2007:775, paragraph 45). The Court of Justice based that assessment on the fact that, at the time of the infringement, the companies concerned were held by the same public entity (see judgments in ETI and Others, EU:C:2007:775, paragraph 50, and Versalis v Commission, EU:C:2013:386, paragraph 56).",
+        "NP": "58",
+        "REF.NP.ECR": [
+            "56"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2013:386",
+        "NO.CASE": null,
+        "text": "58In the judgment in ETI and Others (EU:C:2007:775) to which the Court of Justice expressly referred in paragraph 144 of the judgment in ThyssenKrupp Nirosta v Commission (EU:C:2011:191), the Court of Justice held that the Commission was entitled to impute the infringement to a company which had not committed the infringement where the entity which had done so continued to exist as an economic operator on other markets (see judgment in ETI and Others, EU:C:2007:775, paragraph 45). The Court of Justice based that assessment on the fact that, at the time of the infringement, the companies concerned were held by the same public entity (see judgments in ETI and Others, EU:C:2007:775, paragraph 50, and Versalis v Commission, EU:C:2013:386, paragraph 56).",
+        "NP": "58",
+        "REF.NP.ECR": [
+            "56"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "59It must also be noted that the scope of the judgment in ETI and Others (EU:C:2007:775) is not limited, contrary to the submissions of Versalis and Eni, to cases in which the entities concerned are controlled by a public authority. In paragraph 44 of that judgment, the Court of Justice stated that the fact that the decision to transfer an activity is taken not by individuals, but by the legislature in view of a privatisation, is equally irrelevant. The Court therefore took the view that there could be doubts as to the imputability of an infringement to the successor entity, where, at the very most, both were controlled by a public authority, but those doubts were dispelled by the Court. However, there can be no doubt as regards that imputability where that control, as in the present case, is exercised by a company under private law (see judgment in Versalis v Commission, EU:C:2013:386, paragraph 57).",
+        "NP": "59",
+        "REF.NP.ECR": [
+            "57"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2013:386",
+        "NO.CASE": null,
+        "text": "59It must also be noted that the scope of the judgment in ETI and Others (EU:C:2007:775) is not limited, contrary to the submissions of Versalis and Eni, to cases in which the entities concerned are controlled by a public authority. In paragraph 44 of that judgment, the Court of Justice stated that the fact that the decision to transfer an activity is taken not by individuals, but by the legislature in view of a privatisation, is equally irrelevant. The Court therefore took the view that there could be doubts as to the imputability of an infringement to the successor entity, where, at the very most, both were controlled by a public authority, but those doubts were dispelled by the Court. However, there can be no doubt as regards that imputability where that control, as in the present case, is exercised by a company under private law (see judgment in Versalis v Commission, EU:C:2013:386, paragraph 57).",
+        "NP": "59",
+        "REF.NP.ECR": [
+            "57"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2009:500",
+        "NO.CASE": null,
+        "text": "77In the context of its first ground of appeal, the Commission criticises paragraphs 272 to 275 of the judgment under appeal, which are worded as follows:272In the present case, it must be stated that, in the cases cited in the [decision at issue] in order to establish the existence of repeated infringement on Eni\u2019s part, namely the cases which gave rise to the Polypropylene and PVC II decisions (see paragraph 257 [of the judgment under appeal]) (see footnote 517 of the [decision at issue]), the Commission has neither claimed nor shown that the companies concerned by those decisions, namely [Anic] and EniChem respectively, had not independently determined their conduct on the market at issue over the course of the infringement periods selected and that they therefore constituted, with their parent company Eni, an economic entity and therefore an undertaking within the meaning of Articles 81 EC and 82 EC. The Commission found an infringement only on the part of those subsidiaries and not on the part of their parent company. As observed by the applicants, without being contradicted by the Commission, Eni was not heard in the context of the administrative procedure which led to the adoption of those decisions.273However, the principle of respect for the rights of the defence precludes a competition decision from being held to be lawful in a case where the Commission imposes a fine on an undertaking without first having informed it of the objections relied on against it. The statement of objections must also indicate in which capacity a legal person is called on to answer the allegations (judgments in Papierfabrik August Koehler and Others v Commission, [C\u2010322/07 P, C\u2010327/07 P and C\u2010338/07 P, EU:C:2009:500], paragraphs 37 and 39; and [Akzo Nobel and Others v Commission, EU:C:2009:536], paragraph 57).274Therefore, it cannot be accepted that, when making a determination as to the aggravating circumstance of repeated infringement on Eni\u2019s part, the Commission is entitled to decide that Eni should be held liable for a previous infringement in relation to which it was not penalised by a Commission decision and in the establishment of which it was not the addressee of a statement of objections, with the result that it was not given an opportunity to present its arguments with a view to disputing that it formed an economic unit with certain other undertakings \u2014 in the present case, Anic and EniChem \u2014 at the time of the earlier infringement.275It follows that the infringement found in Article 1 of the [decision at issue] cannot be regarded as a repeated infringement on Eni\u2019s part.",
+        "NP": "77",
+        "REF.NP.ECR": [
+            "57"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2009:536",
+        "NO.CASE": null,
+        "text": "77In the context of its first ground of appeal, the Commission criticises paragraphs 272 to 275 of the judgment under appeal, which are worded as follows:272In the present case, it must be stated that, in the cases cited in the [decision at issue] in order to establish the existence of repeated infringement on Eni\u2019s part, namely the cases which gave rise to the Polypropylene and PVC II decisions (see paragraph 257 [of the judgment under appeal]) (see footnote 517 of the [decision at issue]), the Commission has neither claimed nor shown that the companies concerned by those decisions, namely [Anic] and EniChem respectively, had not independently determined their conduct on the market at issue over the course of the infringement periods selected and that they therefore constituted, with their parent company Eni, an economic entity and therefore an undertaking within the meaning of Articles 81 EC and 82 EC. The Commission found an infringement only on the part of those subsidiaries and not on the part of their parent company. As observed by the applicants, without being contradicted by the Commission, Eni was not heard in the context of the administrative procedure which led to the adoption of those decisions.273However, the principle of respect for the rights of the defence precludes a competition decision from being held to be lawful in a case where the Commission imposes a fine on an undertaking without first having informed it of the objections relied on against it. The statement of objections must also indicate in which capacity a legal person is called on to answer the allegations (judgments in Papierfabrik August Koehler and Others v Commission, [C\u2010322/07 P, C\u2010327/07 P and C\u2010338/07 P, EU:C:2009:500], paragraphs 37 and 39; and [Akzo Nobel and Others v Commission, EU:C:2009:536], paragraph 57).274Therefore, it cannot be accepted that, when making a determination as to the aggravating circumstance of repeated infringement on Eni\u2019s part, the Commission is entitled to decide that Eni should be held liable for a previous infringement in relation to which it was not penalised by a Commission decision and in the establishment of which it was not the addressee of a statement of objections, with the result that it was not given an opportunity to present its arguments with a view to disputing that it formed an economic unit with certain other undertakings \u2014 in the present case, Anic and EniChem \u2014 at the time of the earlier infringement.275It follows that the infringement found in Article 1 of the [decision at issue] cannot be regarded as a repeated infringement on Eni\u2019s part.",
+        "NP": "77",
+        "REF.NP.ECR": [
+            "57"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2007:88",
+        "NO.CASE": null,
+        "text": "87As follows from point 28 of the 2006 Guidelines and from the case-law of the Court of Justice, the aggravating circumstance of repeated infringement is characterised by the continuation or repetition by an undertaking of the same or a similar infringement after the Commission or a national competition authority has made a finding that the undertaking infringed Article 81 EC or 82 EC (see, to that effect, judgment in Groupe Danone v Commission, C\u20103/06 P, EU:C:2007:88, paragraphs 40 and 41).",
+        "NP": "87",
+        "REF.NP.ECR": [
+            "40",
+            "41"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2009:536",
+        "NO.CASE": null,
+        "text": "88It must be borne in mind that EU competition law refers to the activities of undertakings and that the concept of an undertaking covers any entity engaged in an economic activity, regardless of its legal status and the way in which it is financed (see judgment in Akzo Nobel and Others v Commission, EU:C:2009:536, paragraph 54 and the case-law cited).",
+        "NP": "88",
+        "REF.NP.ECR": [
+            "54"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2009:536",
+        "NO.CASE": null,
+        "text": "89When such an economic entity infringes the competition rules, it falls, according to the principle of personal responsibility, to that entity to answer for that infringement. None the less, the infringement of EU competition law must be imputed unequivocally to a legal person on whom fines may be imposed and the statement of objections must be addressed to that person (see, to that effect, judgment in Akzo Nobel and Others v Commission, EU:C:2009:536, paragraphs 56 and 57 and the case-law cited).",
+        "NP": "89",
+        "REF.NP.ECR": [
+            "56",
+            "57"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2007:775",
+        "NO.CASE": null,
+        "text": "92The objective of suppressing conduct that infringes the competition rules and preventing its reoccurrence by means of deterrent penalties (see judgment in ETI and Others, EU:C:2007:775, paragraph 41 and the case-law cited) would be jeopardised if an undertaking encompassing a subsidiary concerned by a first infringement were able, by altering its legal structure through the creation of new subsidiaries against which proceedings could not be brought on the basis of the first infringement, but which are involved in the commission of the new infringement, to make impossible or particularly difficult, and therefore avoid, a penalty for repeated infringement.",
+        "NP": "92",
+        "REF.NP.ECR": [
+            "41"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:1979:36",
+        "NO.CASE": null,
+        "text": "94In all proceedings in which penalties, especially fines or penalty payments, may be imposed, observance of the rights of the defence is a fundamental principle of EU law which must be fully complied with even if the proceedings in question are administrative proceedings (judgments in Hoffmann-La Roche v Commission, 85/76, EU:C:1979:36, paragraph 9; ARBED v Commission, C\u2010176/99 P, EU:C:2003:524, paragraph 19; and Papierfabrik August Koehler and Others v Commission, EU:C:2009:500, paragraph 34).",
+        "NP": "94",
+        "REF.NP.ECR": [
+            "34"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2003:524",
+        "NO.CASE": null,
+        "text": "94In all proceedings in which penalties, especially fines or penalty payments, may be imposed, observance of the rights of the defence is a fundamental principle of EU law which must be fully complied with even if the proceedings in question are administrative proceedings (judgments in Hoffmann-La Roche v Commission, 85/76, EU:C:1979:36, paragraph 9; ARBED v Commission, C\u2010176/99 P, EU:C:2003:524, paragraph 19; and Papierfabrik August Koehler and Others v Commission, EU:C:2009:500, paragraph 34).",
+        "NP": "94",
+        "REF.NP.ECR": [
+            "34"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2009:500",
+        "NO.CASE": null,
+        "text": "94In all proceedings in which penalties, especially fines or penalty payments, may be imposed, observance of the rights of the defence is a fundamental principle of EU law which must be fully complied with even if the proceedings in question are administrative proceedings (judgments in Hoffmann-La Roche v Commission, 85/76, EU:C:1979:36, paragraph 9; ARBED v Commission, C\u2010176/99 P, EU:C:2003:524, paragraph 19; and Papierfabrik August Koehler and Others v Commission, EU:C:2009:500, paragraph 34).",
+        "NP": "94",
+        "REF.NP.ECR": [
+            "34"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:1983:158",
+        "NO.CASE": null,
+        "text": "95In proceedings for infringement of the competition rules, it is the statement of objections which constitutes the essential procedural safeguard in this respect (see, to that effect, judgments in Musique Diffusion franc\u0327aise and Others v Commission, 100/80 to 103/80, EU:C:1983:158, paragraph 10, and Papierfabrik August Koehler and Others v Commission, EU:C:2009:500, paragraph 35).",
+        "NP": "95",
+        "REF.NP.ECR": [
+            "35"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2009:500",
+        "NO.CASE": null,
+        "text": "95In proceedings for infringement of the competition rules, it is the statement of objections which constitutes the essential procedural safeguard in this respect (see, to that effect, judgments in Musique Diffusion franc\u0327aise and Others v Commission, 100/80 to 103/80, EU:C:1983:158, paragraph 10, and Papierfabrik August Koehler and Others v Commission, EU:C:2009:500, paragraph 35).",
+        "NP": "95",
+        "REF.NP.ECR": [
+            "35"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2010:346",
+        "NO.CASE": null,
+        "text": "97Contrary to what Eni claims, the period which separates a first infringement of the competition rules from a second infringement does not, in principle, prevent the aggravating circumstance of repeated infringement from being applied to a legal person which was not the subject of proceedings for the first infringement. However, the Commission must take into account, in its assessment of the undertaking\u2019s propensity to infringe the competition rules, the time which has elapsed between the two infringements (see, to that effect, judgment in Lafarge v Commission, C\u2010413/08 P, EU:C:2010:346, paragraph 70). Moreover, when the EU judicature reviews whether the principle of the rights of the defence has been observed, it must take all the circumstances of the case at issue into consideration, inter alia the possible difficulties of proof resulting from the time elapsed since the first infringement, structural changes in the undertaking or the evolution of the competition law rules.",
+        "NP": "97",
+        "REF.NP.ECR": [
+            "70"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2013:289",
+        "NO.CASE": null,
+        "text": "98Furthermore, it is for the Commission to prove that the conditions for a finding of repeated infringement are satisfied, both in the statement of objections and in the decision. Thus, when imposing a fine on a company for an infringement of EU competition rules and when applying, in calculating the fine, a multiplier to take account of the fact that that company had already been involved in an infringement of the competition rules, the Commission is required to provide, with the decision imposing the fine, a statement of reasons enabling the Courts of the European Union and that company to understand in what capacity and to what extent it is alleged to have been involved in the earlier infringement. In particular, if the Commission considers that that company was part of the undertaking to which the decision relating to the earlier infringement was addressed, the Commission must give sufficient reasons for that assertion (judgments in Eni v Commission, EU:C:2013:289, paragraph 129, and Versalis v Commission, EU:C:2013:386, paragraph 142).",
+        "NP": "98",
+        "REF.NP.ECR": [
+            "142"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2013:386",
+        "NO.CASE": null,
+        "text": "98Furthermore, it is for the Commission to prove that the conditions for a finding of repeated infringement are satisfied, both in the statement of objections and in the decision. Thus, when imposing a fine on a company for an infringement of EU competition rules and when applying, in calculating the fine, a multiplier to take account of the fact that that company had already been involved in an infringement of the competition rules, the Commission is required to provide, with the decision imposing the fine, a statement of reasons enabling the Courts of the European Union and that company to understand in what capacity and to what extent it is alleged to have been involved in the earlier infringement. In particular, if the Commission considers that that company was part of the undertaking to which the decision relating to the earlier infringement was addressed, the Commission must give sufficient reasons for that assertion (judgments in Eni v Commission, EU:C:2013:289, paragraph 129, and Versalis v Commission, EU:C:2013:386, paragraph 142).",
+        "NP": "98",
+        "REF.NP.ECR": [
+            "142"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2008:476",
+        "NO.CASE": null,
+        "text": "102It follows from all the foregoing considerations that the General Court committed an error of law when, in paragraph 274 of the judgment under appeal, it set out the conditions for repeated infringement. However, since the decision of the General Court, in paragraph 275 of the judgment under appeal, ruling out, so far as concerns Eni, the aggravating circumstance of repeated infringement is well founded on other legal grounds, that error is not capable of leading to the annulment of that decision or of the inferences which the General Court drew from it concerning the amount of the fine, and a substitution of grounds must be made (see, to that effect, judgment in FIAMM and Others v Council and Commission, C\u2010120/06 P and C\u2010121/06 P, EU:C:2008:476, paragraph 187 and the case-law cited).",
+        "NP": "102",
+        "REF.NP.ECR": [
+            "187"
+        ]
+    },
+    {
+        "NO.ECLI": "EU:C:2011:619",
+        "NO.CASE": null,
+        "text": "105First, Versalis and Eni claim insufficient reasoning so far as concerns the links between the undertakings liable for the various infringements. Secondly, they dipsute the use of the criterion of economic succession. Thirdly, they claim that the General Court exceeded the limits of its competence in confirming the applicability of the aggravating circumstance of repeated infringement by using a different reasoning from that of the Commission. Fourthly, relying on the circumstances of Bayer, referred to in paragraph 367 of the judgment under appeal, Versalis and Eni claim that the General Court infringed the principle of equal treatment by setting the percentage reduction in the increase of the fine in respect of the aggravating circumstance of repeated infringement at only 10%. Fifthly, Versalis and Eni take the view that, in respect of the joint and several nature, with regard to Eni, of the obligation to pay that increase, the General Court infringed its obligation to state reasons and departed from the case-law of the Court of Justice deriving from the judgment in Arkema v Commission (C\u2010520/09 P, EU:C:2011:619), where it was acknowledged that a parent company which constitutes an undertaking with a subsidiary liable for an infringement of the competition rules is not jointly and severally liable for the part of the fine corresponding to the subsidiary\u2019s repeated infringement, provided that that parent company did not constitute an economic unit with that subsidiary at the time when the first infringement was committed.",
+        "NP": "105"
+    },
+    {
+        "NO.ECLI": "EU:C:2011:619",
+        "NO.CASE": null,
+        "text": "109The fifth complaint, which seeks to call into question the application to Eni of the presumption of influence of the parent company over its subsidiaries involved in the infringement, relates to Versalis and Eni\u2019s first ground of appeal. However, it is apparent from paragraphs 40 to 45 of this judgment that that ground of appeal has been rejected. As for the judgment in Arkema v Commission (EU:C:2011:619), it is sufficient to state that Versalis and Eni\u2019s argument is based on an incorrect reading of that judgment, in which the Court of Justice simply reviewed the calculation of the fine on the basis of the Commission\u2019s choices, without expressing any view on the conditions for repeated infringement.",
+        "NP": "109"
+    },
+    {
+        "NO.ECLI": "EU:C:2012:738",
+        "NO.CASE": null,
+        "text": "136Moreover, it is not for the Court of Justice, when ruling on questions of law in the context of an appeal, to substitute, on grounds of fairness, its own assessment for that of the General Court exercising its unlimited jurisdiction to rule on the amount of fines imposed on undertakings for infringements of EU law (see, in particular, judgment in E.ON Energie v Commission, C\u201089/11 P, EU:C:2012:738, paragraph 125).",
+        "NP": "136",
+        "REF.NP.ECR": [
+            "125"
+        ]
+    }
+]

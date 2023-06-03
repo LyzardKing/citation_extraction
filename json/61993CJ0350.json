@@ -1,0 +1,43 @@
+[
+    {
+        "HT": [
+            "Italy",
+            "Commission"
+        ],
+        "NO.CASE": [
+            "303/88"
+        ],
+        "text": "3By judgment of 21 March 1991 in Case C-303/88 Italy v Commission [1991] ECR I-1433, the Court dismissed an application for the annulment of the decision.",
+        "NP": "3"
+    },
+    {
+        "HT": [
+            "Commission",
+            "Italy"
+        ],
+        "NO.CASE": [
+            "349/93"
+        ],
+        "text": "15The Court has consistently held that the only defence available to a Member State in opposing an application by the Commission under Article 93(2) of the Treaty for a declaration that it has failed to fulfil its Treaty obligations is to plead that it was absolutely impossible for it to implement the decision properly (see, most recently, the judgment in Case C-349/93 Commission v Italy [1995] ECR I-343, paragraph 12, and the case-law cited therein).",
+        "NP": "15",
+        "REF.NP.ECR": [
+            "12"
+        ]
+    },
+    {
+        "HT": [
+            "Spain",
+            "Commission"
+        ],
+        "NO.CASE": [
+            "278/92",
+            "279/92",
+            "280/92"
+        ],
+        "text": "21The Court has consistently held that the obligation on a State to abolish aid regarded by the Commission as being incompatible with the common market has as its purpose to reestablish the previously existing situation (see the judgment in Joined Cases C-278/92, C-279/92 and C-280/92 Spain v Commission [1994] ECR I-4103, paragraph 75, and the case-law cited therein).",
+        "NP": "21",
+        "REF.NP.ECR": [
+            "75"
+        ]
+    }
+]

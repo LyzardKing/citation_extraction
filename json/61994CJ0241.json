@@ -1,0 +1,42 @@
+[
+    {
+        "HT": [
+            "Italy",
+            "Commission"
+        ],
+        "NO.CASE": [
+            "173/73"
+        ],
+        "text": "20According to settled case-law, Article 92(1) does not distinguish between measures of State intervention by reference to their causes or aims but defines them in relation to their effects (Case 173/73 Italy \u03bd Commission [1974] ECR 709, paragraph 13).",
+        "NP": "20",
+        "REF.NP.ECR": [
+            "13"
+        ]
+    },
+    {
+        "HT": [
+            "Commission",
+            "Belgium"
+        ],
+        "NO.CASE": [
+            "234/84"
+        ],
+        "text": "33It must be borne in mind, as a preliminary point, that, as the Court has held, the legality of a decision concerning aid is to be assessed in the light of the information available to the Commission when the decision was adopted (Case 234/84 Commission \u03bd Belgium [1986] ECR 2263, paragraph 16).",
+        "NP": "33",
+        "REF.NP.ECR": [
+            "16"
+        ]
+    },
+    {
+        "HT": "Banco Exterior de Espana",
+        "NO.CASE": [
+            "387/92"
+        ],
+        "text": "34It must next be observed that the concept of aid encompasses advantages granted by public authorities which, in various forms, mitigate the charges which are normally included in the budget of an undertaking (Case C-387/92 Banco Exterior de Espana [1994] ECR I-877, paragraphs 12 and 13).",
+        "NP": "34",
+        "REF.NP.ECR": [
+            "12",
+            "13"
+        ]
+    }
+]

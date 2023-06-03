@@ -1,0 +1,30 @@
+[
+    {
+        "HT": [
+            "Duphar",
+            "Netherlands"
+        ],
+        "NO.CASE": [
+            "238/82"
+        ],
+        "text": "6As the Court held in Case 238/82 Duphar v Netherlands [1984] ECR 523, paragraph 16, Community law does not detract from the powers of the Member States to organize their social security systems.",
+        "NP": "6",
+        "REF.NP.ECR": [
+            "16"
+        ]
+    },
+    {
+        "HT": [
+            "Hofner",
+            "Elser"
+        ],
+        "NO.CASE": [
+            "41/90"
+        ],
+        "text": "17The Court has held (in particular in Case C-41/90 Ho\u0308fner v Elser [1991] ECR I-1979, paragraph 21) that in the context of competition law the concept of an undertaking encompasses every entity engaged in an economic activity, regardless of the legal status of the entity and the way in which it is financed.",
+        "NP": "17",
+        "REF.NP.ECR": [
+            "21"
+        ]
+    }
+]
